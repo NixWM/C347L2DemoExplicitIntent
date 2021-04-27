@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo ExplicitIntent</string>
+    <string name="textViewSuperman">TextView</string>
+    <string name="Batman">TextView</string>
+    <string name="Superman">Superman</string>
+    <string name="batman">Batman</string>
+    <string name="strength">Strength</string>
+    <string name="name">Name</string>
+    <string name="technical">Technical</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+</resources>
